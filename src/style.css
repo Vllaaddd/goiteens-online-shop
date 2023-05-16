@@ -1,0 +1,162 @@
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.container{
+    padding: 10px 10px ;
+}
+
+.header{
+    height: 80px;
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.header img{
+    width: 40px;
+    cursor: pointer;
+}
+
+.header .headerSecondPart{
+    display: flex;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.basketLink,
+.sup2Link{
+    position: relative;
+    border-radius: 50%;
+    width: 100px;
+}
+
+sup{
+    position: absolute;
+    top: 0;
+    right: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: red;
+}
+
+.productItem,
+.basketProductItem{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    max-width: 250px;
+}
+
+.productsList,
+.basketProductsList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.productImg,
+.basketProductImg{
+    width: 200px;
+}
+
+.productContainer,
+.basketProductContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.img,
+.basketImg{
+    width: 500px;
+    border-radius: 10px;
+}
+
+.productInfo,
+.basketProductInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    max-width: 700px;
+}
+
+.productName,
+.basketProductName{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.productDescr,
+.basketProductDescr{
+    font-size: 40px;
+}
+
+.productPrice,
+.basketProductPrice{
+    font-size: 40px;
+}
+
+.productIDK,
+.basketProductIDK{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 30px;
+}
+
+.shoppingCart{
+    width: 60px;
+}
+
+.productHeart{
+    width: 60px;
+}
+
+.trashBinImg{
+    width: 60px;
+}
+
+.heartLink:hover, 
+.shoppingCartLink:hover,
+.trashBin:hover{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 80px;
+    background: #d4d3d3;
+    cursor: pointer;
+}
+
+.heartLink,
+.shoppingCartLink,
+.trashBin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+
+    transition: all 0.25s ease-in-out;
+}

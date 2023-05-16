@@ -1,0 +1,74 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Nike Air Force 1 '07",
+        "description": "Classic sneakers with a sleek design and durable leather upper.",
+        "price": 90.0,
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4b6f4d7e-6c2f-4b7e-ba8c-3e6f1a9c7d99/air-force-1-07-shoe-3S8DZK.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Adidas Ultraboost 21",
+        "description": "Running shoes with responsive cushioning and a lightweight design.",
+        "price": 180.0,
+        "image": "https://img.eobuwie.cloud/eob1_product_800w(1/5/9/8/15987a9263935ca917adc40030aa0f651218f7b7_01_0000301709978_pl.jpg,webp)/boty-adidas---ultraboost-23-shoes-gz5166---ern--.webp"
+      },
+      {
+        "id": 3,
+        "name": "Levi's 501 Original Fit Jeans",
+        "description": "Iconic jeans with a straight leg and classic button fly.",
+        "price": 69.5,
+        "image": "https://www.levi.com/medias/sys_master/images/h2d/hc7/8791161211438/005010168-front.jpg"
+      },
+      {
+        "id": 4,
+        "name": "The North Face Resolve 2 Jacket",
+        "description": "Waterproof and breathable jacket with adjustable hood and zippered pockets.",
+        "price": 90.0,
+        "image": "https://images.thenorthface.com/is/image/TheNorthFace/NF0A2VD5_682_hero?$638x745$"
+      },
+      {
+        "id": 5,
+        "name": "Patagonia Better Sweater Fleece Jacket",
+        "description": "Warm and durable jacket made from recycled materials.",
+        "price": 139.0,
+        "image": "https://www.patagonia.com/dw/image/v2/BDCK_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw7b4c8a6e/images/hi-res/25542_BLK.jpg?sw=750&sh=750&sm=fit&sfrm=png"
+      },
+      {
+        "id": 6,
+        "name": "Lululemon Align Pant",
+        "description": "Buttery soft leggings with a high waistband and four-way stretch.",
+        "price": 98.0,
+        "image": "https://shop.lululemon.com/dw/image/v2/BDQJ_PRD/on/demandware.static/-/Sites-lululemon-master/default/dw5d9f1b7c/images/hi-res/21_01_152_0339.jpg?sw=1024&sh=1024&sm=fit&sfrm=png"
+      },
+      {
+        "id": 7,
+        "name": "Herschel Little America Backpack",
+        "description": "Spacious backpack with a classic mountaineering style and padded laptop sleeve.",
+        "price": 99.99,
+        "image": "https://cdn.shopify.com/s/files/1/0266/8609/products/10014-00001-OS_01.jpg?v=1625036843"
+      },
+      {
+        "id": 8,
+        "name": "Fjallraven Kanken Backpack",
+        "description": "Durable backpack with a minimalist design and multiple pockets.",
+        "price": 80.0,
+        "image": "https://www.fjallraven.com/globalassets/fjallraven/produkter/f23510/f23510-620/fjallraven-kanken-backpack-forest-green-f23510-620-01.jpg?format=auto&w=500"
+      },
+      {
+        "id": 9,
+        "name": "Bose SoundLink Revolve+ Bluetooth Speaker",
+        "description": "Portable speaker with 360-degree sound and up to 16 hours of battery life.",
+        "price": 299.0,
+        "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/soundlink_revolve_plus_silver/product_silo_images/soundlink_revolve_plus_EC_hero_01072021.psd/_jcr_content/renditions/cq5dam.web.320.320.jpeg"
+      },
+      {
+        "id": 10,
+        "name": "Apple Watch Series 6",
+        "description": "Smartwatch with blood oxygen monitoring and always-on Retina display.",
+        "price": 399.0,
+        "image": "https://www.apple.com/v/watch-series-6/e/images/meta/og__f9t3e0zvqfyi_large.png"
+      }
+    ]
+  }
